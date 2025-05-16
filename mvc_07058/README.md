@@ -12,3 +12,8 @@
 - Request user diterima kembali di `index.php` dan siklus ini berulang sesuai action yang diminta.
 
 ## 2. Struktur Folder Proyek
+/controllers/ MahasiswaController.php # Mengatur alur aplikasi dan request user /models/ Mahasiswa.php # Berisi semua logika database (CRUD) /views/ mahasiswa_add.php # Form tambah data mahasiswa mahasiswa_edit.php # Form edit data mahasiswa mahasiswa_list.php # Tampilan daftar mahasiswa config.php # Konfigurasi koneksi database index.php # Entry point aplikasi (routing request) README.md # Dokumen penjelasan program (file ini)
+
+## 3. Screenshot Struktur Folder Proyek
+
+![Struktur Proyek](images/WhatsApp Image 2025-05-16 at 7.15.55 PM.jpeg)
