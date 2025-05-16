@@ -16,4 +16,6 @@
 
 ## 3. Screenshot Struktur Folder Proyek
 
-![Struktur Proyek](images/WhatsApp Image 2025-05-16 at 7.15.55 PM.jpeg)
+<p align="left">
+  <img src="images/WhatsApp Image 2025-05-16 at 7.15.55 PM.jpeg" width="20%">
+</p>
