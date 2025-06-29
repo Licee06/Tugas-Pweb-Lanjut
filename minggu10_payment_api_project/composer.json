@@ -1,0 +1,20 @@
+{
+  "name": "ficoaldisaputro/keamanan-lanjutan",
+  "description": "Aplikasi pembayaran & ongkir dengan Midtrans + RajaOngkir",
+  "config": {
+    "platform": {
+      "php": "8.1.0"
+    }
+  },
+  "require": {
+    "midtrans/midtrans-php": "^2.0",
+    "dipantry/rajaongkir": "^1.0",
+    "guzzlehttp/guzzle": "^7.0",
+    "vlucas/phpdotenv": "^5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
